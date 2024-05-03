@@ -28,7 +28,7 @@
 		  type_slug: "todos",
 		  title: todo,
 		  content: "New Task",
-		  write_key: config.bucket.write_key,
+				write_key: config.bucket.write_key,
 		  metafields: [
 			{
 			  title: "Is Complete",
